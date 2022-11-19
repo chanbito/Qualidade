@@ -240,6 +240,7 @@ def teste_notacao():
         print('\nErro na validação de dados no teste_notacao ')
         print(ex)
 
+
 def teste_coliseu():
     print('\nteste_coliseu: ')
     try:

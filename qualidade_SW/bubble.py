@@ -14,6 +14,7 @@ class bubble:
 
             if not swapped:
                 return
+        return arr
 
 
 
